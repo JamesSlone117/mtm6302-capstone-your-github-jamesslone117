@@ -3,9 +3,7 @@
 
 The "Editing Quiz" colour palette is inspired based on Premiere Pro by Adobe video editing software, which has a clean and polished style. The goal was to establish a connection between the quiz interface and the Premiere software to provide editors something that is familiar. 
 
-
-⁤# Implementation ⁤
-
+# Implementation
 
 ⁤**Light Background:** The primary background colour for the quiz interface was set to a lighter shade, providing a clean and professional appearance. ⁤
 
